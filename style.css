@@ -1,0 +1,35 @@
+.main_cal {
+    width: 30%;
+    border: 2px solid black;
+    padding: 3px;
+    background-color: lightskyblue;
+}
+
+.cal_input {
+    width: 96%;
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px 5px;
+    border: 1px solid lightpink;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main_but {
+    width: 100%;
+    padding-top: 5px;
+
+}
+
+.buttons {
+    width: 24%;
+    height: 50px;
+    font-size: 24px;
+}
+
+.buttons:hover {
+    border-radius: 5px;
+    background-color: lightgray;
+}
